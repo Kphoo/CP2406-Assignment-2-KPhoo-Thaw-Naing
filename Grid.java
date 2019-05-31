@@ -1,4 +1,4 @@
-//GitHub Repository: https://github.com/callumr1/CP2406-Assignment1
+//GitHub Repository: https://github.com/Kphoo/CP2406-Assignment-2-KPhoo-Thaw-Naing
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
